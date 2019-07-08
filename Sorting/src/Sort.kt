@@ -21,5 +21,5 @@ interface Sort {
      * @return a sorted list of items from the unsorted list
      *
      */
-    fun <T : Comparable<T>> sort(unsorted: List<T>): List<T>
+    fun <T : Comparable<T>> sort(unsorted: MutableList<T>): List<T>
 }

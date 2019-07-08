@@ -16,6 +16,8 @@ or
 
 - If your algorithm does not fit in any module or type of algorithm place it under the ```Other``` module with corresponding test
 
+Checkout [Sorting](https://github.com/Davidodari/Algorithms/tree/sorting-algorithms-selection/Sorting) module for example template
+
 The documentation will iterate and improve over the course of development and is a chance for first time contributors to get their
 hands dirty with open source contributions.
 

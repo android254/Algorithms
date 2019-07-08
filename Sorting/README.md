@@ -12,3 +12,11 @@ Given a set of data,Selection sort;
  This is achieved by using a temporary variable to swap elements from one index to another.
  - Results in two subsets of data ;sorted and unsorted.The unsorted subset is broken down further to smaller subsets as sorting goes on until the whole list is sorted.
  
+Due to the fact that it has atleast 2 loops one being nested ```n*n```,in terms of analysis;
+n being the time taken to execute the code
+
+__Best Case Scenario__ : 0(n^2)
+
+__Worst Case Scenario__: 0(n^2)
+
+__Average Case Scenario__: 0(n^2)

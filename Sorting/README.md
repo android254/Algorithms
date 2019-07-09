@@ -4,7 +4,7 @@ Sorting Algorithms are used to put elements in a given set of data in a certain 
 
 1. **Selection Sort**
 
-![Selection Sort Gif](https://commons.wikimedia.org/wiki/File:Selection-Sort-Animation.gif)
+![Selection Sort Gif](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
 
 Given a set of data,Selection sort;
 

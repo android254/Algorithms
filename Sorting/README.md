@@ -4,6 +4,8 @@ Sorting Algorithms are used to put elements in a given set of data in a certain 
 
 1. **Selection Sort**
 
+![Selection Sort Gif](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
+
 Given a set of data,Selection sort;
 
  - Selects the smallest/minimum or largest/maximum value in the data set depending on desired order.

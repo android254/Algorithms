@@ -5,9 +5,8 @@
  */
 class LinearSearch : Search {
     override fun <T : Comparable<T>> search(data: Array<T>, element: T): Int {
-        for (i in 0 until data.size) {
-            if (data[i] == element)
-                return i
+        data.forEachIndexed { index, currentElement ->
+            if (currentElement == element) return index
         }
         return -1
     }
